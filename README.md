@@ -1,38 +1,38 @@
-\# Internship Repository
+# Internship Repository
 
 
 
-\## Name
+## Name
 
 Matin Shaikh
 
 
 
-\## Profile
+## Profile
 
 Aspiring Data Analyst
 
 
 
-\## Career Goal
+## Career Goal
 
 To build a successful career in Data Analytics and Business Intelligence by leveraging data-driven insights to solve real-world business problems.
 
 
 
-\## College
+## College
 
 Haribhai.V.Desai College,Pune
 
 
 
-\## Skills
+## Skills
 
-\- SQL
+- SQL
 
-\- Python
+- Python
 
-\- Excel
+- Excel
 
-\- Power BI
+- Power BI
 
